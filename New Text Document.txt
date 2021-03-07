@@ -1,2 +1,0 @@
-Test
-it should be html file
